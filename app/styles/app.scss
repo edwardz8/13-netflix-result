@@ -65,12 +65,16 @@ img {
 .top-content {
   display: flex;
   justify-content: space-between;
-  margin: 4rem;
+  margin: 3rem;
 
   &__left {}
   &__right {}
 }
 
 .image {
-  width: 20rem;
+  width: 22rem;
+}
+
+.bottom-content {
+  margin: 3rem;
 }

@@ -1,5 +1,5 @@
 import 'whatwg-fetch';
 
-const = searchForm
-const = searchInput
-const = searchResult
+const searchForm = element.innerHTML('.');
+const searchInput = element.innerHTML('.');
+const searchResult = element.innerHTML('.');
